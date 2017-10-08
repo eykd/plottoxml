@@ -27,4 +27,4 @@ This project is dedicated to developing machine-readable editions of Plotto that
 
 ### Original Plotto
 
-[`plotto-original-corrected.xml`][http://github.com/eykd/plottoxml/blob/master/plotto-original-corrected.xml] is based on <https://github.com/garykac/plotto/blob/gh-pages/plotto-mf.html> from [Gary Kacmaarcik's](https://github.com/garykac) [Plotto project](https://github.com/garykac/plotto), which is originally based on the [archive.org](https://archive.org/details/plottonewmethodo00cook) version. I have corrected some of the links, which were either inexact or typos.
+[`plotto-original-corrected.xml`](http://github.com/eykd/plottoxml/blob/master/plotto-original-corrected.xml) is derived from [plotto-mf.html](https://github.com/garykac/plotto/blob/gh-pages/plotto-mf.html) of [Gary Kacmaarcik's](https://github.com/garykac) [Plotto project](https://github.com/garykac/plotto), which is originally based on the [archive.org](https://archive.org/details/plottonewmethodo00cook) version. I have corrected some of the links, which were either inexact or typos.
