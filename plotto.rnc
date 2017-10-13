@@ -1,0 +1,94 @@
+start = Plotto
+
+
+Plotto = element plotto {
+   element characters {
+      element character {
+         attribute designation { text },
+         attribute sex { text },
+         text
+      }+
+   },
+   element subjects {
+      element subject {
+         AttrNumber,
+         Description
+      }+
+   },
+   element predicates {
+      element predicate {
+         AttrNumber,
+         Description,
+         ConflictLink*
+      }+
+   },
+   element outcomes {
+      element outcome  {
+         AttrNumber,
+         Description
+      }+
+   },
+   element conflicts {
+      element conflict {
+         attribute id { xsd:NMTOKEN },
+         AttrCategory,
+         AttrSubCategory,
+         element permutations {
+            element permutation {
+               AttrNumber,
+               Description,
+               element option {
+                  DescriptionText
+               }*,
+               element includes {
+                  ConflictLinkGroup+
+               }?
+            }+
+         },
+         element lead-ups {
+            ConflictLinkGroup*
+         },
+         element carry-ons {
+            ConflictLinkGroup*
+         }
+      }+
+   }
+}
+
+AttrNumber = attribute number { xsd:integer }
+AttrCategory = attribute category { text }
+AttrRef = attribute ref { xsd:NMTOKEN }
+AttrSubCategory = attribute subcategory { text }
+
+CharacterLink = element character-link {
+   AttrRef,
+   text
+}
+
+ConflictLink = element conflict-link {
+   AttrRef,
+   AttrCategory,
+   AttrSubCategory,
+   attribute permutations { xsd:NMTOKENS }?,
+   attribute option { xsd:integer }?,
+   (
+      element transform {
+         attribute from { text },
+         attribute to { text }
+      }*
+    & element add { text }*
+    & element remove { text }*
+   )*
+}
+
+ConflictLinkGroup = element group {
+   attribute mode { "choose" | "include" },
+   ConflictLink+
+}
+
+Description = element description {
+   DescriptionText
+}
+
+
+DescriptionText = mixed { CharacterLink? }+

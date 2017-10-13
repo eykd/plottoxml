@@ -1,0 +1,6 @@
+*.rng
+pip-selfcheck.json
+bin/
+lib/
+share/
+include/
