@@ -4004,7 +4004,8 @@
     </conflict>
     <conflict id="67" category="Love and Courtship" subcategory="Love’s Misadventures">
       <permutations>
-        <permutation number="1"><description><character-link ref="A">A</character-link>, elderly, wealthy, is in love with youthful <character-link ref="B">B</character-link>.* <character-link ref="A">A</character-link> seeks by a stratagem to discover the sincerity of <character-link ref="B">B</character-link>’s professed love for him.</description></permutation>
+        <permutation number="1"><description><character-link ref="A">A</character-link>, elderly, wealthy, is in love with youthful <character-link ref="B">B</character-link>.</description></permutation>
+        <permutation number="2"><description><character-link ref="A">A</character-link> seeks by a stratagem to discover the sincerity of <character-link ref="B">B</character-link>’s professed love for him.</description></permutation>
       </permutations>
       <lead-ups>
         <group mode="choose">
@@ -6801,7 +6802,8 @@
     </conflict>
     <conflict id="136" category="Love and Courtship" subcategory="Love’s Misadventures">
       <permutations>
-        <permutation number="1"><description><character-link ref="A">A</character-link> and <character-link ref="A-3">A-3</character-link> are in love with <character-link ref="B">B</character-link> *. Obliged to carry out the orders of <character-link ref="A-3">A-3</character-link>, <character-link ref="A">A</character-link> is commanded to</description><option>commit suicide, or</option><option>to leave the field clear for <character-link ref="A-3">A-3</character-link>.</option></permutation>
+        <permutation number="1"><description><character-link ref="A">A</character-link> and <character-link ref="A-3">A-3</character-link> are in love with <character-link ref="B">B</character-link>.</description></permutation>
+        <permutation number="2"><description>Obliged to carry out the orders of <character-link ref="A-3">A-3</character-link>, <character-link ref="A">A</character-link> is commanded to</description><option>commit suicide, or</option><option>to leave the field clear for <character-link ref="A-3">A-3</character-link>.</option></permutation>
       </permutations>
       <lead-ups>
         <group mode="choose">
@@ -8551,7 +8553,10 @@
     <conflict id="181a" category="Love and Courtship" subcategory="Love’s Misadventures">
       <permutations>
         <permutation number="1">
-          <description><character-link ref="A">A</character-link>, riding his cow pony through the bleak hills, sees <character-link ref="B">B</character-link>, on a mettlesome horse, her bridle-rein broken, plunging helplessly toward the brink of a cliff. <character-link ref="A">A</character-link>, with a rattle of spurs, overtakes <character-link ref="B">B</character-link> and snatches her clear of the saddle.* Thereupon, love is declared and accepted.</description>
+          <description><character-link ref="A">A</character-link>, riding his cow pony through the bleak hills, sees <character-link ref="B">B</character-link>, on a mettlesome horse, her bridle-rein broken, plunging helplessly toward the brink of a cliff. <character-link ref="A">A</character-link>, with a rattle of spurs, overtakes <character-link ref="B">B</character-link> and snatches her clear of the saddle.</description>
+        </permutation>
+        <permutation number="2">
+          <description>Thereupon, love is declared and accepted.</description>
           <includes>
             <group mode="choose">
               <conflict-link ref="188a" category="Love and Courtship" subcategory="Marriage Proposal"/>
@@ -40877,7 +40882,8 @@
     <conflict id="1056" category="Enterprise" subcategory="Chance">
       <permutations>
         <permutation number="1"><description><character-link ref="A">A</character-link>, hiding in a place where there is no food, steals from the larder of his nearest neighbor, <character-link ref="A-4">A-4</character-link>.</description></permutation>
-        <permutation number="2"><description><character-link ref="A-4">A-4</character-link>, missing food from his larder, half believes it was taken by a “ghost” **,A, a supposed ghost, is caught in a trap set by <character-link ref="A-4">A-4</character-link>; and <character-link ref="A-4">A-4</character-link> proves to be <character-link ref="A">A</character-link>’s missing son, SN.</description></permutation>
+        <permutation number="2"><description><character-link ref="A-4">A-4</character-link>, missing food from his larder, half believes it was taken by a “ghost”.</description></permutation>
+        <permutation number="3"><description>A, a supposed ghost, is caught in a trap set by <character-link ref="A-4">A-4</character-link>; and <character-link ref="A-4">A-4</character-link> proves to be <character-link ref="A">A</character-link>’s missing son, SN.</description></permutation>
       </permutations>
       <lead-ups>
         <group mode="include">
@@ -48756,7 +48762,8 @@
     </conflict>
     <conflict id="1283" category="Enterprise" subcategory="Craftiness">
       <permutations>
-        <permutation number="1"><description><character-link ref="A">A</character-link> discovers where a certain object, <character-link ref="X">X</character-link>, small but immensely valuable, has been concealed *A, to secure a certain object, <character-link ref="X">X</character-link>, must proceed warily and without arousing suspicion.</description></permutation>
+        <permutation number="1"><description><character-link ref="A">A</character-link> discovers where a certain object, <character-link ref="X">X</character-link>, small but immensely valuable, has been concealed.</description></permutation>
+        <permutation number="2"><description>A, to secure a certain object, <character-link ref="X">X</character-link>, must proceed warily and without arousing suspicion.</description></permutation>
       </permutations>
       <lead-ups>
         <group mode="choose">
@@ -50363,7 +50370,8 @@
     </conflict>
     <conflict id="1322" category="Enterprise" subcategory="Revenge">
       <permutations>
-        <permutation number="1"><description><character-link ref="A">A</character-link> seeks to be revenged on <character-link ref="A-3">A-3</character-link>* but <character-link ref="A-3">A-3</character-link> is powerful and constantly on his guard against <character-link ref="A">A</character-link>.</description></permutation>
+        <permutation number="1"><description><character-link ref="A">A</character-link> seeks to be revenged on <character-link ref="A-3">A-3</character-link>.</description></permutation>
+        <permutation number="2"><description><character-link ref="A-3">A-3</character-link> is powerful and constantly on his guard against <character-link ref="A">A</character-link>.</description></permutation>
       </permutations>
       <lead-ups>
         <group mode="choose">
@@ -51163,7 +51171,8 @@
       <permutations>
         <permutation number="1"><description><character-link ref="A">A</character-link> carries in his pocket a queer object of mystery, <character-link ref="X">X</character-link>.</description></permutation>
         <permutation number="2">
-          <description><character-link ref="A">A</character-link>, apparently as the result of carrying in his pocket a queer object of mystery, <character-link ref="X">X</character-link>, experiences all sorts of misfortunes.** Note: [l] <character-link ref="X">X</character-link> is a large silver watch, engraved with queer inscriptions, considered a talisman by the tribe of wandering Arabs from whom it was stolen; or</description>
+          <description><character-link ref="A">A</character-link>, apparently as the result of carrying in his pocket a queer object of mystery, <character-link ref="X">X</character-link>, experiences all sorts of misfortunes.</description>
+          <option><character-link ref="X">X</character-link> is a large silver watch, engraved with queer inscriptions, considered a talisman by the tribe of wandering Arabs from whom it was stolen; or</option>
           <option><character-link ref="X">X</character-link> is a Chinese coin; or</option>
           <option><character-link ref="X">X</character-link> is a dried “button” of the mescal plant. See</option>
           <option>1342.</option>
@@ -51618,7 +51627,8 @@
     <conflict id="1356" category="Enterprise" subcategory="Mystery">
       <permutations>
         <permutation number="1"><description><character-link ref="A">A</character-link>’s will is waging a psychic battle against fear.</description></permutation>
-        <permutation number="2"><description><character-link ref="A">A</character-link> is a performer whose specialty is a dare-devil act of great danger; but in <character-link ref="A">A</character-link> there is growing the feeling that he will fail, although he knows that death is sure if he even contemplates failure **; <character-link ref="A">A</character-link> is</description><option>a high-diver;</option><option>a “trick” bicycle rider with a “loop the loop” specialty;</option><option>an aviator whose specialty is airplane stunts; or</option><option>a “human fly” who climbs the walls of tall buildings.</option></permutation>
+        <permutation number="2"><description><character-link ref="A">A</character-link> is a performer whose specialty is a dare-devil act of great danger; but in <character-link ref="A">A</character-link> there is growing the feeling that he will fail, although he knows that death is sure if he even contemplates failure.</description></permutation>
+        <permutation number="3"><description><character-link ref="A">A</character-link> is</description><option>a high-diver;</option><option>a “trick” bicycle rider with a “loop the loop” specialty;</option><option>an aviator whose specialty is airplane stunts; or</option><option>a “human fly” who climbs the walls of tall buildings.</option></permutation>
       </permutations>
       <lead-ups>
         <group mode="choose">
