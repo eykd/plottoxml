@@ -116,7 +116,7 @@
       <conflict-link ref="271" category="Love and Courtship" subcategory="Love’s Rejection"/>
     </predicate>
     <predicate number="3">
-      <description>Seeking to demonstrate the power of love by a test of courage.</description>
+      <description>Seeking to demonstrate the power of love by a test of courage</description>
       <conflict-link ref="175" category="Love and Courtship" subcategory="Love’s Misadventures"/>
     </predicate>
     <predicate number="4">
@@ -129,7 +129,7 @@
       <conflict-link ref="313" category="Love and Courtship" subcategory="Love’s Rejection"/>
     </predicate>
     <predicate number="6">
-      <description>Challenging, in a quest of love, the relentless truth that “East is East, and West is West, and never the twain shall meet,”</description>
+      <description>Challenging, in a quest of love, the relentless truth that “East is East, and West is West, and never the twain shall meet”</description>
       <conflict-link ref="331" category="Love and Courtship" subcategory="Love’s Rejection"/>
     </predicate>
     <predicate number="7">
@@ -210,7 +210,7 @@
       <conflict-link ref="934" category="Enterprise" subcategory="Idealism"/>
     </predicate>
     <predicate number="18">
-      <description>Rebelling against a power that controls personal abilities and holds them in subjection.</description>
+      <description>Rebelling against a power that controls personal abilities and holds them in subjection</description>
       <conflict-link ref="674" category="Enterprise" subcategory="Misfortune"/>
     </predicate>
     <predicate number="19">
@@ -368,7 +368,7 @@
       <conflict-link ref="963" category="Enterprise" subcategory="Idealism"/>
     </predicate>
     <predicate number="37">
-      <description>Seeking against difficulties to realize a cherished ideal.</description>
+      <description>Seeking against difficulties to realize a cherished ideal</description>
       <conflict-link ref="563a" category="Married Life" subcategory="Marriage"/>
       <conflict-link ref="563b" category="Married Life" subcategory="Marriage"/>
       <conflict-link ref="563c" category="Married Life" subcategory="Marriage"/>
@@ -389,7 +389,7 @@
       <conflict-link ref="989" category="Enterprise" subcategory="Obligation"/>
     </predicate>
     <predicate number="40">
-      <description>Embarking upon an enterprise in which one obligation is opposed by another obligation.</description>
+      <description>Embarking upon an enterprise in which one obligation is opposed by another obligation</description>
       <conflict-link ref="287" category="Love and Courtship" subcategory="Love’s Rejection"/>
       <conflict-link ref="517" category="Married Life" subcategory="Marriage"/>
       <conflict-link ref="1011" category="Enterprise" subcategory="Obligation"/>
@@ -415,12 +415,12 @@
       <conflict-link ref="1071" category="Enterprise" subcategory="Personal Limitations"/>
     </predicate>
     <predicate number="44">
-      <description>Seeking by unusual methods to conquer personal limitations.</description>
+      <description>Seeking by unusual methods to conquer personal limitations</description>
       <conflict-link ref="191" category="Love and Courtship" subcategory="Marriage Proposal"/>
       <conflict-link ref="1101" category="Enterprise" subcategory="Personal Limitations"/>
     </predicate>
     <predicate number="45">
-      <description>Seeking to forward an enterprise and encountering family sentiment as an obstacle.</description>
+      <description>Seeking to forward an enterprise and encountering family sentiment as an obstacle</description>
       <conflict-link ref="1138" category="Enterprise" subcategory="Personal Limitations"/>
     </predicate>
     <predicate number="46">
@@ -433,7 +433,7 @@
       <conflict-link ref="1165" category="Enterprise" subcategory="Simulation"/>
     </predicate>
     <predicate number="48">
-      <description>Assuming the character of a criminal in a perfectly honest enterprise.</description>
+      <description>Assuming the character of a criminal in a perfectly honest enterprise</description>
       <conflict-link ref="1167" category="Enterprise" subcategory="Simulation"/>
     </predicate>
     <predicate number="49">
@@ -509,12 +509,12 @@
       <conflict-link ref="1414b" category="Enterprise" subcategory="Mystery"/>
     </predicate>
     <predicate number="59">
-      <description>Engaging in an mysterious enterprise and becoming involved with the occult and the fantastic.</description>
+      <description>Engaging in an mysterious enterprise and becoming involved with the occult and the fantastic</description>
       <conflict-link ref="1418a" category="Enterprise" subcategory="Mystery"/>
       <conflict-link ref="1418b" category="Enterprise" subcategory="Mystery"/>
     </predicate>
     <predicate number="60">
-      <description>Becoming involved, through curiosity aroused by mystery, in a strange enterprise.</description>
+      <description>Becoming involved, through curiosity aroused by mystery, in a strange enterprise</description>
       <conflict-link ref="1429" category="Enterprise" subcategory="Mystery"/>
     </predicate>
     <predicate number="61">
@@ -529,7 +529,7 @@
   </predicates>
   <outcomes>
     <outcome number="1">
-      <description>Pays a grim penalty in an unfortunate undertaking</description>
+      <description>Pays a grim penalty in an unfortunate undertaking.</description>
     </outcome>
     <outcome number="2">
       <description>Emerges happily from a serious entanglement.</description>
@@ -550,13 +550,13 @@
       <description>Reverses certain opinions when their fallacy is revealed.</description>
     </outcome>
     <outcome number="8">
-      <description>Achieves a spiritual victory</description>
+      <description>Achieves a spiritual victory.</description>
     </outcome>
     <outcome number="9">
       <description>Achieves success and happiness in a hard undertaking.</description>
     </outcome>
     <outcome number="10">
-      <description>Meets with an experience whereby an error is corrected</description>
+      <description>Meets with an experience whereby an error is corrected.</description>
     </outcome>
     <outcome number="11">
       <description>Discovers the folly of trying to appear otherwise than as one is in reality.</description>
@@ -568,7 +568,7 @@
       <description>Comes finally to the blank wall of enigma.</description>
     </outcome>
     <outcome number="14">
-      <description>Achieves a complete and permanent character transformation</description>
+      <description>Achieves a complete and permanent character transformation.</description>
     </outcome>
     <outcome number="15">
       <description>Meets any fate, good or evil.</description>
